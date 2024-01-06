@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4duPm80mTOV1//YaGywEU69Xu7mMU40w+NhPCAfr2cQIzdp5chKt+KpEBe6/Fm9wAW/VCd4ChlIOvngu5hkkvA==",
+  "dgSpecHash": "Jm+s7ecO1uigRGLKl1hr/y7aBNFc7+LBmz5STnBWIIQR9T3XDcIp8JxZ8qLDD00ThTv40ScB2tiWiP5T7PfwiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Yeli_il_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

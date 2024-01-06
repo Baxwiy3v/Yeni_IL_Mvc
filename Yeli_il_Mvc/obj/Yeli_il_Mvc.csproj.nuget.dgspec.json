@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Yeli_il_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Yeli_il_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Yeli_il_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj",
         "projectName": "Yeli_il_Mvc",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Yeli_il_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\Yeli_il_Mvc.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Yeli_il_Mvc\\Yeli_il_Mvc\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -9,25 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Yeli_il_Mvc
 build_property.RootNamespace = Yeli_il_Mvc
-build_property.ProjectDir = C:\Users\Asus\Desktop\Yeli_il_Mvc\Yeli_il_Mvc\
+build_property.ProjectDir = C:\Users\Asus\Desktop\Yeni_IL_Mvc\Yeli_il_Mvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Yeli_il_Mvc\Yeli_il_Mvc
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\Yeni_IL_Mvc\Yeli_il_Mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asus/Desktop/Yeli_il_Mvc/Yeli_il_Mvc/Views/Home/Index.cshtml]
+[C:/Users/Asus/Desktop/Yeni_IL_Mvc/Yeli_il_Mvc/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/Yeni_IL_Mvc/Yeli_il_Mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Yeli_il_Mvc/Yeli_il_Mvc/Views/Shared/_Layout.cshtml]
+[C:/Users/Asus/Desktop/Yeni_IL_Mvc/Yeli_il_Mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Yeli_il_Mvc/Yeli_il_Mvc/Views/_ViewImports.cshtml]
+[C:/Users/Asus/Desktop/Yeni_IL_Mvc/Yeli_il_Mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/Desktop/Yeli_il_Mvc/Yeli_il_Mvc/Views/_ViewStart.cshtml]
+[C:/Users/Asus/Desktop/Yeni_IL_Mvc/Yeli_il_Mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
