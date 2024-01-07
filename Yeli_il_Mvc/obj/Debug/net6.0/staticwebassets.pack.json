@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Yeli_il_Mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Yeli_il_Mvc.bundle.scp.css"
+    },
+    {
       "Id": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\wwwroot\\assets\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css"
     },

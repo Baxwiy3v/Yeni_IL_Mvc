@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "srAL9NILGn8goKqTODd8LQNPsEDxzxp09lOxI/1euyI=",
+  "Hash": "YL6jzPC8f+brcimbZhUAG/kA3D9tF6033qN7oNmuoKs=",
   "Source": "Yeli_il_Mvc",
   "BasePath": "_content/Yeli_il_Mvc",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Yeli_il_Mvc.styles.css",
+      "SourceId": "Yeli_il_Mvc",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Yeli_il_Mvc",
+      "RelativePath": "Yeli_il_Mvc.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Yeli_il_Mvc.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Yeli_il_Mvc.bundle.scp.css",
+      "SourceId": "Yeli_il_Mvc",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Yeli_il_Mvc",
+      "RelativePath": "Yeli_il_Mvc.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Yeli_il_Mvc.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\Asus\\Desktop\\Yeni_IL_Mvc\\Yeli_il_Mvc\\wwwroot\\assets\\css\\bootstrap.css",
       "SourceId": "Yeli_il_Mvc",
